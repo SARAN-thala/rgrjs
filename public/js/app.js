@@ -5,7 +5,7 @@ var createReactClass = require('create-react-class');
 
 var Hello = createReactClass({
   render: function () {
-    return React.createElement("h3", null, "Hello React!");
+    return React.createElement("h3", null, "Hello Webpack!");
   }
 });
 
